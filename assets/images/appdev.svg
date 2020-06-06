@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 439.8 227.7">
+    <defs>
+        <style>
+            .app-development-1{fill:#377dff}
+			.app-development-3{fill:#00c9a7}
+			.app-development-4{fill:none;stroke:#1e2022;stroke-miterlimit:10}
+			.app-development-6{fill:#fff}
+			.app-development-7{fill:#d8d8d8}
+			.app-development-8{fill:#ececec}
+			.app-development-9{fill:#b7d2f9}
+			.app-development-10{fill:#f2f3f7}
+			.app-development-11{fill:#dfe2ec}
+			.app-development-14{fill:#de4437}
+			.app-development-16{fill:#fec55e}
+			.app-development-17{opacity:.2;fill:#231f20}
+			.app-development-19{fill:#4d5068}
+			.app-development-21{fill:#9e9e9e}
+			.app-development-22{fill:#c5c5c5}
+			.app-development-23{fill:#8184c4}
+			.app-development-24{opacity:.3;fill:#414042}
+			.app-development-25{fill:#212121}
+			.app-development-26{fill:#fed17e}
+			.app-development-27{fill:#f1f2f2}
+			.app-development-28{fill:#414042}
+			.app-development-29{fill:#191c3c}
+			.app-development-32{opacity:.3}
+			.app-development-36{opacity:.2;fill:#191c3c}
+			.app-development-37{fill:#fcd991}
+			.app-development-38{opacity:.3;fill:#231f20}
+			.app-development-40{fill:#575a8f}
+			.app-development-42{opacity:.3;fill:#191c3c}
+			.app-development-44{fill:#6371c5}
+			.app-development-46{fill:#ddb758}
+			.app-development-47{fill:#093a66}
+			.app-development-48{fill:#272834}
+			.app-development-49{fill:#efdcb4}
+        </style>
+    </defs>
+    <g opacity=".15">
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="426.6" cy="146.7" r="10.4"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M287.7 17.2c0 7.5-6.1 13.5-13.5 13.5-7.5 0-13.5-6.1-13.5-13.5 0-7.5 6.1-13.5 13.5-13.5 7.4-.1 13.5 6 13.5 13.5zM101.8 34.4c0 3.8-3.1 6.9-6.9 6.9S88 38.2 88 34.4s3.1-6.9 6.9-6.9 6.9 3.1 6.9 6.9zm242.3 13.1c0 3.8-3.1 6.9-6.9 6.9s-6.9-3.1-6.9-6.9c0-3.8 3.1-6.9 6.9-6.9s6.9 3.1 6.9 6.9z"/>
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="179.8" cy="6.9" r="6.9"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M439.8 176.9c0 1.6-1.3 2.8-2.8 2.8-1.6 0-2.8-1.3-2.8-2.8 0-1.6 1.3-2.8 2.8-2.8 1.6-.1 2.8 1.2 2.8 2.8zM329.9 22.7c0 1.2-1 2.1-2.1 2.1-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1s2.1.9 2.1 2.1z"/>
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="122.1" cy="6.9" r="2.8"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M25.9 67c0 2-1.6 3.7-3.7 3.7-2 0-3.7-1.6-3.7-3.7 0-2 1.6-3.7 3.7-3.7 2 .1 3.7 1.7 3.7 3.7zm408 34.9c0 2-1.6 3.7-3.7 3.7-2 0-3.7-1.6-3.7-3.7 0-2 1.6-3.7 3.7-3.7s3.7 1.7 3.7 3.7z"/>
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="58.8" cy="55.5" r="15.6"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M12 183.3c0 2-1.6 3.7-3.7 3.7-2 0-3.7-1.6-3.7-3.7s1.6-3.7 3.7-3.7c2 0 3.7 1.7 3.7 3.7z"/>
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="406.7" cy="47.5" r="15.1"/>
+        <circle class="app-development-1 fill-primary" opacity=".5" cx="12" cy="115.2" r="12"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M424.6 227.4c0-28.2-6-55.1-16.8-79.3 3.9-8.1 6.1-17.1 6.1-26.7 0-34-27.5-61.5-61.5-61.5-6.4 0-12.5 1-18.3 2.8-30.2-19.2-66.1-30.4-104.6-30.4-4.8 0-9.6.2-14.3.5-8.4-6.3-18.9-10.1-30.2-10.1-21.4 0-39.7 13.4-46.9 32.3-14.8 7.9-28.5 17.6-40.7 28.8-4-.9-8.1-1.4-12.4-1.4-30.8 0-55.7 24.9-55.7 55.7 0 13.4 4.7 25.7 12.6 35.3-4.9 17.1-7.6 35.2-7.6 53.9l390.3.1z"/>
+        <path class="app-development-1 fill-primary" opacity=".5" d="M370.1 227c0-78.3-63.4-141.7-141.7-141.7S86.7 148.7 86.7 227h283.4z"/>
+    </g>
+    <path class="app-development-3" d="M79.6 136.9c-.1 0-.2.1-.3.1-2.7 1.3-4.2 1.1-6.8-.1-2.5-1.1-4.8-2.5-6.9-4.3-2.6-2.3-4.6-5.3-5-8.7-.1-.8-.1-1.6.4-2.2.6-.9 1.9-1 2.9-.6s1.8 1.1 2.5 1.9c.3.3.7.6 1.1.7.4.1 1 0 1.2-.4.4-.6-.3-1.3-.8-1.8-1.3-1.1-2.5-1.7-3.8-2.6-1.7-1.2-3.2-2.6-4.2-4.5-.9-1.8-1.1-4.1-.2-5.9.3-.6.7-1.1 1.2-1.4.9-.6 2.1-.6 3.2-.3 1.1.2 2.1.6 3.2.8 2.6.3 3.6-1.6 3.6-4 0-1.6-.6-3.2-.6-4.8-.2-2.8 1.2-5.8 3.8-7.1 2.6-1.2 6.1-.1 7.1 2.6 1 2.9-1.3 6.2.2 9 .5.9 1.6 2.2 2.5 2.7 1.4.9 3.5-.2 5.2-.1.4 0 .8.1 1 .3.2.2.3.5.3.7.4 2-.3 4.2-1.9 5.6-1.7 1.6-4.7 2.4-5.4 4.8-.5 1.5-.3 5.3 2.2 4.9.9-.1 1.5-1 2.4-1.3 1.1-.4 2.3.4 2.8 1.4s.3 2.3-.1 3.3c-.7 1.7-1.9 3-3.2 4.3-2.5 2.8-4.2 5.4-7.6 7z"/>
+    <path class="app-development-4" d="M76 101.5v74.2m6.9-64l-6.9 6.9-6.9-6.9m13.8 13.9l-6.9 6.8-6.9-6.8"/>
+    <path class="app-development-3" d="M390.2 179.5c-.1.1-.2.1-.3.2-3.4 1.6-5.1 1.3-8.4-.2-3-1.4-5.9-3-8.4-5.2-3.2-2.8-5.6-6.6-6.1-10.8-.1-.9-.1-2 .4-2.7.8-1 2.3-1.2 3.5-.7s2.2 1.4 3.1 2.3c.4.4.8.7 1.4.9.5.1 1.2 0 1.5-.5.4-.8-.3-1.7-1-2.2-1.6-1.3-3-2.1-4.7-3.2-2.1-1.5-4-3.2-5.1-5.5s-1.4-5.1-.2-7.3c.4-.7.9-1.3 1.5-1.7 1.2-.7 2.6-.7 4-.4 1.3.3 2.6.8 4 .9 3.2.3 4.5-1.9 4.4-4.9 0-2-.7-3.9-.8-5.9-.2-3.5 1.5-7.2 4.7-8.7 3.1-1.5 7.5-.1 8.7 3.2 1.2 3.6-1.6 7.6.3 11 .6 1.1 2 2.7 3 3.3 1.8 1.1 4.3-.2 6.3-.1.5 0 .9.1 1.3.4.2.2.3.6.4.9.5 2.5-.4 5.2-2.3 6.9-2.1 1.9-5.8 2.9-6.7 5.9-.6 1.9-.3 6.6 2.7 6.1 1.1-.2 1.9-1.3 2.9-1.6 1.3-.4 2.9.4 3.4 1.7.6 1.3.4 2.8-.1 4.1-.8 2.1-2.4 3.7-3.9 5.3-3.2 3.3-5.3 6.5-9.5 8.5z"/>
+    <path class="app-development-4" d="M385.8 135.9v91.3m8.4-78.6l-8.4 8.4-8.5-8.4m16.9 16.9l-8.4 8.5-8.5-8.5M7 226.9h18.8m403.6.3h-26.8c0-2.3-1.8-4.1-4.1-4.1s-4.1 1.8-4.1 4.1"/>
+    <path class="app-development-4" d="M396.3 223.6c0-2.3-1.8-4.1-4.1-4.1s-4.1 1.8-4.1 4.1"/>
+    <g id="appDevelopment_79_">
+        <path id="appDevelopment_802_" class="app-development-1 fill-primary" d="M145 217.7H27.7v-72.5c0-.7.6-1.3 1.3-1.3h114.8c.7 0 1.3.6 1.3 1.3v72.5h-.1z"/>
+        <path id="appDevelopment_799_" class="app-development-6" d="M33.7 150.6H139v61.1H33.7z"/>
+        <path id="appDevelopment_76_" class="app-development-7" d="M151.9 221h-131c3.7 3.7 8.8 5.8 14.1 5.8h102.9c5.2 0 10.2-2.1 14-5.8z"/>
+        <path id="appDevelopment_75_" class="app-development-8" d="M20.9 217.3h131v3.7h-131z"/>
+        <path id="appDevelopment_77_" class="app-development-7" d="M94.5 220.2H78.3c-.6 0-1-.5-1-1 0-.6.5-1 1-1h16.2c.6 0 1 .5 1 1s-.5 1-1 1z"/>
+        <path id="appDevelopment_80_" class="app-development-9" d="M56.7 169.1H44.1c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h12.7c1.2 0 2.1 1 2.1 2.1 0 1.2-1 2.1-2.2 2.1z"/>
+        <path id="appDevelopment_84_" class="app-development-10" d="M82.3 180.7H63.7c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h18.6c1.2 0 2.1 1 2.1 2.1 0 1.2-1 2.1-2.1 2.1z"/>
+        <path id="appDevelopment_87_" class="app-development-9" d="M96.8 180.7h-7.2c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h7.2c1.2 0 2.1 1 2.1 2.1.1 1.2-.9 2.1-2.1 2.1z"/>
+        <path id="appDevelopment_85_" class="app-development-10" d="M82.3 192.3h-30c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h30c1.2 0 2.1 1 2.1 2.1 0 1.2-1 2.1-2.1 2.1z"/>
+        <path id="appDevelopment_88_" class="app-development-10" d="M90.4 192.3h40c1.2 0 2.1-1 2.1-2.1 0-1.2-1-2.1-2.1-2.1h-40c-1.2 0-2.1 1-2.1 2.1 0 1.2.9 2.1 2.1 2.1z"/>
+        <path id="appDevelopment_86_" class="app-development-10" d="M61 204H44c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h17c1.2 0 2.1 1 2.1 2.1.1 1.1-.9 2.1-2.1 2.1z"/>
+        <path id="appDevelopment_89_" class="app-development-11" d="M68.2 204h5.5c1.2 0 2.1-1 2.1-2.1 0-1.2-1-2.1-2.1-2.1h-5.5c-1.2 0-2.1 1-2.1 2.1s.9 2.1 2.1 2.1z"/>
+        <path id="appDevelopment_90_" class="app-development-10" d="M80.8 204h41.3c1.2 0 2.1-1 2.1-2.1 0-1.2-1-2.1-2.1-2.1H80.8c-1.2 0-2.1 1-2.1 2.1s1 2.1 2.1 2.1z"/>
+        <path id="appDevelopment_83_" class="app-development-10" d="M96.8 169.1H65.3c-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1h31.5c1.2 0 2.1 1 2.1 2.1.1 1.2-.9 2.1-2.1 2.1z"/>
+        <path id="appDevelopment_91_" class="app-development-10" d="M104 169.1h11.1c1.2 0 2.1-1 2.1-2.1 0-1.2-1-2.1-2.1-2.1H104c-1.2 0-2.1 1-2.1 2.1 0 1.2.9 2.1 2.1 2.1z"/>
+    </g>
+    <path class="app-development-9" d="M310.7 227.6h-185V39.3c0-2.8 2.3-5.1 5.1-5.1h174.7c2.8 0 5.1 2.3 5.1 5.1v188.3h.1z"/>
+    <path fill="#f3f4f9" d="M132.5 64.4h172.2v163.2H132.5z"/>
+    <path fill="#e7eaf3" d="M147.8 76.4h141.5v54.4H147.8z"/>
+    <path class="app-development-1 fill-primary" d="M189.2 76.4h100.2v54.4H189.2z"/>
+    <path class="app-development-1 fill-primary" d="M147.8 76.4h141.6v23.3H147.8z"/>
+    <path class="app-development-1 fill-primary" d="M181.6 115.3c-1.5 0-2.7-1.2-2.7-2.7V94.7c0-1.5 1.2-2.7 2.7-2.7 1.5 0 2.7 1.2 2.7 2.7v17.9c0 1.5-1.2 2.7-2.7 2.7zm-10.5-6.9c-1.5 0-2.7-1.2-2.7-2.7V94.9c0-1.5 1.2-2.7 2.7-2.7 1.5 0 2.7 1.2 2.7 2.7v10.8c0 1.5-1.2 2.7-2.7 2.7z"/>
+    <path class="app-development-1 fill-primary" d="M176.4 88.9c-1.5 0-2.7 1.2-2.7 2.7v11c.1-1.4 1.2-2.5 2.6-2.5 1.4 0 2.5 1.1 2.6 2.5v-11c.1-1.5-1.1-2.7-2.5-2.7zm10.4 1.7c-1.5 0-2.7 1.2-2.7 2.7v11c.1-1.4 1.2-2.5 2.6-2.5s2.5 1.1 2.6 2.5V93.2c.1-1.4-1-2.6-2.5-2.6z"/>
+    <path class="app-development-6" d="M175.8 47h92.3v7.6h-92.3z"/>
+    <path class="app-development-1 fill-primary" d="M297.2 48.2h-7c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h7c.5 0 .9.4.9.9s-.4.9-.9.9zm0 3.5h-7c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h7c.5 0 .9.4.9.9s-.4.9-.9.9zm0 3.4h-7c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h7c.5 0 .9.4.9.9s-.4.9-.9.9z"/>
+    <circle class="app-development-14" cx="143.7" cy="50.8" r="3.7"/>
+    <circle cx="154.6" cy="50.8" r="3.7" fill="#ffc107"/>
+    <circle class="app-development-3" cx="165.5" cy="50.8" r="3.7"/>
+    <path class="app-development-11" d="M147.8 147.1h141.5v6.7H147.8zm0 15.8h141.5v6.7H147.8zm0 15.7h141.5v6.7H147.8zm0 15.8h141.5v6.7H147.8z"/>
+    <path class="app-development-4" d="M114.6 83.3v143.9m22.6-143.9v143.9m-22.6-122.8h22.6m-22.6-9.8h22.6m-22.6 19.5h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6m-22.6 9.8h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6m-22.6 9.8h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6m-22.6 9.7h22.6"/>
+    <g id="appDevelopment_334_">
+        <g id="appDevelopment_404_">
+            <path id="appDevelopment_408_" class="app-development-16" d="M76.8 200.5h2l2.8-8.4c.2-.5.1-1-.1-1.5l-3.7-6.5H77l-.1 7c.1.1.7.3.8.4.5.5.5 1.4 0 1.9s-1.4.5-1.9 0-.5-1.4 0-1.9c.1-.1.5-.4.6-.4l.2-6.9H76l-3.8 6.5c-.3.5-.3 1-.2 1.5l2.7 8.4 2.1-.1z"/>
+            <path id="appDevelopment_407_" class="app-development-17" d="M74.8 200.5h4l.9-2.8h-5.8z"/>
+            <path id="appDevelopment_406_" fill="#717386" d="M72.4 199h8.8v15.9h-8.8z"/>
+            <path id="appDevelopment_405_" class="app-development-19" d="M76.8 199h4.4v15.9h-4.4z"/>
+        </g>
+        <g id="appDevelopment_392_">
+            <path id="appDevelopment_401_" d="M92.9 194.8v3.8c0 .7.6 1.3 1.3 1.3 1.4 0 2.5 1.1 2.5 2.5v10.3c0 1.3 1.1 2.4 2.5 2.3 1.2-.1 2-1.2 2-2.4v-10.1c0-1.4 1.1-2.5 2.5-2.5.7 0 1.3-.6 1.3-1.3v-3.9H92.9zm5.2 17.7c0-.4.4-.8.8-.8s.8.4.8.8-.4.8-.8.8-.8-.4-.8-.8z" fill="#9a9dd0"/>
+            <path id="appDevelopment_400_" class="app-development-16" d="M92.9 183.1h12v8.7h-12z"/>
+            <path id="appDevelopment_399_" class="app-development-16" d="M92.9 183.1h4.8v8.7h-4.8z"/>
+            <path id="appDevelopment_398_" class="app-development-21" d="M92.9 191.3h12v3.5h-12z"/>
+            <path id="appDevelopment_397_" class="app-development-22" d="M92.9 191.5h12v.5h-12z"/>
+            <path id="appDevelopment_396_" class="app-development-22" d="M92.9 192.8h12v.5h-12z"/>
+            <path id="appDevelopment_395_" class="app-development-22" d="M92.9 194h12v.5h-12z"/>
+            <path id="appDevelopment_394_" class="app-development-23" d="M98.9 194.8v16.9c-.4 0-.8.4-.8.8s.4.8.8.8v1.6c-1.3 0-2.3-1-2.3-2.3v-10.3c0-1.4-1.1-2.5-2.5-2.5-.7 0-1.3-.6-1.3-1.3v-3.7h6.1z"/>
+            <path id="appDevelopment_393_" class="app-development-1 fill-primary" d="M97 183.1v3.4c0 .5.4 1 1 1 .5 0 1-.4 1-1v-1c0-.4.4-.8.8-.8s.8.4.8.8v3.6c0 .4.4.8.8.8s.8-.4.8-.8v-1.7c.9 0 1.6-.7 1.6-1.6V183H97v.1z"/>
+        </g>
+        <path id="appDevelopment_391_" class="app-development-24" d="M92.9 183.1v15.3c0 .7.6 1.3 1.3 1.3h.4v-12.9l-1.4-3.6-.3-.1z"/>
+        <g id="appDevelopment_384_">
+            <path id="appDevelopment_390_" class="app-development-16" d="M88.5 186.8h4.9v24.4h-4.9z"/>
+            <path id="appDevelopment_389_" class="app-development-16" d="M93.5 212.4h-4.9v1.4c0 .6.5 1.2 1.2 1.2h2.6c.6 0 1.2-.5 1.2-1.2l-.1-1.4z"/>
+            <path id="appDevelopment_388_" class="app-development-25" d="M88.5 211.2h4.9v1.2h-4.9z"/>
+            <path id="appDevelopment_387_" class="app-development-26" d="M88.5 186.8H91v24.4h-2.5z"/>
+            <path id="appDevelopment_386_" class="app-development-27" d="M90.8 181.1l-2.3 5.7h4.9l-2.3-5.7c0-.2-.2-.2-.3 0z"/>
+            <path id="appDevelopment_385_" class="app-development-25" d="M90.9 180.7l-.6 1.5h1.3l-.6-1.5h-.1z"/>
+        </g>
+        <path id="appDevelopment_383_" class="app-development-24" d="M79.3 199l2.3-6.8c.2-.5.1-1-.1-1.5l-3.2-5.7v29.6c0 .6.5 1.1 1.1 1.1h1.9v-15.9h-2v-.8z"/>
+        <g id="appDevelopment_359_">
+            <path id="appDevelopment_382_" class="app-development-1 fill-primary" d="M80.3 180h3.9c.6 0 1 .5 1 1v32.9c0 .6-.5 1-1 1h-3.9c-.6 0-1-.5-1-1V181c0-.5.4-1 1-1z"/>
+            <path id="appDevelopment_381_" class="app-development-9" d="M80.4 180h2.1v34.9h-2.1c-.6 0-1.1-.5-1.1-1.1v-32.7c0-.6.5-1.1 1.1-1.1z"/>
+            <path id="appDevelopment_380_" class="app-development-28" d="M79.3 212.5h.7v.4h-.7z"/>
+            <path id="appDevelopment_379_" class="app-development-28" d="M79.3 211h.7v.4h-.7z"/>
+            <path id="appDevelopment_378_" class="app-development-28" d="M79.3 209.4h.7v.4h-.7z"/>
+            <path id="appDevelopment_377_" class="app-development-28" d="M79.3 207.9h.7v.4h-.7z"/>
+            <path id="appDevelopment_376_" class="app-development-28" d="M79.2 206.3h1.5v.4h-1.5z"/>
+            <path id="appDevelopment_375_" class="app-development-28" d="M79.3 204.8h.7v.4h-.7z"/>
+            <path id="appDevelopment_374_" class="app-development-28" d="M79.3 203.2h.7v.4h-.7z"/>
+            <path id="appDevelopment_373_" class="app-development-28" d="M79.3 201.7h.7v.4h-.7z"/>
+            <path id="appDevelopment_372_" class="app-development-28" d="M79.3 200.1h.7v.4h-.7z"/>
+            <path id="appDevelopment_371_" class="app-development-28" d="M79.2 198.6h1.5v.4h-1.5z"/>
+            <path id="appDevelopment_370_" class="app-development-28" d="M79.3 197h.7v.4h-.7z"/>
+            <path id="appDevelopment_369_" class="app-development-28" d="M79.3 195.5h.7v.4h-.7z"/>
+            <path id="appDevelopment_368_" class="app-development-28" d="M79.3 193.9h.7v.4h-.7z"/>
+            <path id="appDevelopment_367_" class="app-development-28" d="M79.3 192.4h.7v.4h-.7z"/>
+            <path id="appDevelopment_366_" class="app-development-28" d="M79.2 190.8h1.5v.4h-1.5z"/>
+            <path id="appDevelopment_365_" class="app-development-28" d="M79.3 189.3h.7v.4h-.7z"/>
+            <path id="appDevelopment_364_" class="app-development-28" d="M79.3 187.7h.7v.4h-.7z"/>
+            <path id="appDevelopment_363_" class="app-development-28" d="M79.3 186.2h.7v.4h-.7z"/>
+            <path id="appDevelopment_362_" class="app-development-28" d="M79.3 184.6h.7v.4h-.7z"/>
+            <path id="appDevelopment_361_" class="app-development-28" d="M79.2 183.1h1.5v.4h-1.5z"/>
+            <path id="appDevelopment_360_" class="app-development-28" d="M79.3 181.5h.7v.4h-.7z"/>
+        </g>
+        <path id="appDevelopment_358_" class="app-development-24" d="M84.2 180v6.9h-.6v7.6h.6v20.4c.6 0 1-.5 1-1.1v-32.7c0-.6-.4-1-1-1.1z"/>
+        <g id="appDevelopment_349_">
+            <path id="appDevelopment_357_" class="app-development-29" d="M85.3 194.2h2.6v20.7h-2.6z"/>
+            <path id="appDevelopment_356_" fill="#474963" d="M86.6 194.2h1.3v20.7h-1.3z"/>
+            <path id="appDevelopment_355_" class="app-development-29" d="M84.7 189.6h3.5v4.9h-3.5z"/>
+            <path id="appDevelopment_354_" class="app-development-6" d="M84.7 189.6h3.5v.3h-3.5z"/>
+            <path id="appDevelopment_353_" class="app-development-29" d="M84.7 186.9h3.5v2.7h-3.5z"/>
+            <path id="appDevelopment_352_" class="app-development-21" d="M88.1 181.3l-2.8-2.4v8h2.8z"/>
+            <path id="appDevelopment_351_" class="app-development-8" d="M85.3 179.8v7.1h2.8v-4.7z"/>
+            <path id="appDevelopment_350_" fill="#b1b1b1" d="M86.7 186.9h1.4v-4.7l-1.4-1.2z"/>
+        </g>
+        <g id="appDevelopment_342_" class="app-development-32">
+            <path id="appDevelopment_348_" class="app-development-24" d="M79.3 214.9h4.9c.3 0 .5-.1.7-.3v-.1c.1-.1.1-.2.2-.3s.1-.3.1-.4v-9.1H72.4v10.2h6.9z"/>
+            <path id="appDevelopment_347_" class="app-development-24" d="M88.5 213.6c0 .7.6 1.3 1.3 1.3h2.4c.7 0 1.3-.6 1.3-1.3v-9h-4.9v9h-.1z"/>
+            <path id="appDevelopment_346_" class="app-development-24" d="M87.9 214.9v-10.2h-2.6v10.2h1.3z"/>
+            <path id="appDevelopment_343_" class="app-development-24" d="M96.6 204.7v8c0 .2 0 .3.1.5 0 .1 0 .1.1.2 0 .1 0 .2.1.2 0 .1.1.2.1.2l.1.1c.1.1.1.2.2.3l.1.1c.1.1.2.2.3.2.4.3.9.4 1.5.4 1.2-.1 2-1.2 2-2.4v-7.8h-4.6zm2.3 8.6c-.4 0-.8-.4-.8-.8s.4-.8.8-.8.8.4.8.8-.3.8-.8.8z"/>
+        </g>
+        <g id="appDevelopment_335_">
+            <path id="appDevelopment_341_" class="app-development-16" d="M106.1 227.2H71.9v-21.4h36.3v19.3c0 1.1-.9 2.1-2.1 2.1z"/>
+            <path id="appDevelopment_340_" d="M70.3 227.2h1.6v-21.4h-3.7v19.3c0 1.1.9 2.1 2.1 2.1z" fill="#bf9447"/>
+            <path id="appDevelopment_339_" class="app-development-17" d="M68.2 210.3h2.4l1.3-4.5-3.7.9z"/>
+            <path id="appDevelopment_338_" class="app-development-16" d="M67.6 208.5h2.6c.2 0 .4-.1.4-.3l1.2-2.4h-3.7l-1 2c-.1.3.2.7.5.7z"/>
+            <path id="appDevelopment_337_" class="app-development-17" d="M108.2 210.3v-3.6l-36.3-.9 2 4.5z"/>
+            <path id="appDevelopment_336_" class="app-development-16" d="M109.2 208.5H74.1c-.2 0-.3-.1-.4-.2l-1.8-2.5h36.3l1.4 1.9c.3.3.1.8-.4.8z"/>
+        </g>
+    </g>
+    <path d="M351.1 150.4h-92.2c-1.2 0-2.1 1-2.1 2.2v75h96.4v-74.9c0-1.3-.9-2.3-2.1-2.3z" opacity=".3" fill="#8c98a4"/>
+    <path id="appDevelopment_333_" d="M360.3 227.6H260v-72.7c0-2.4 2-4.4 4.4-4.4h91.4c2.4 0 4.4 2 4.4 4.4v72.7h.1z" fill="#f5f7f9"/>
+    <path id="appDevelopment_332_" class="app-development-1 fill-primary" d="M360.3 159.8v-7.4c0-1.2-1-2.2-2.2-2.2h-95.8c-1.2 0-2.2 1-2.2 2.2v7.4h100.2z"/>
+    <path id="appDevelopment_331_" class="app-development-6" d="M267.5 155.3c0 .7-.6 1.3-1.3 1.3-.7 0-1.3-.6-1.3-1.3 0-.7.6-1.3 1.3-1.3.8 0 1.3.6 1.3 1.3z"/>
+    <path id="appDevelopment_330_" class="app-development-6" d="M271.8 155.3c0 .7-.6 1.3-1.3 1.3-.7 0-1.3-.6-1.3-1.3 0-.7.6-1.3 1.3-1.3.7 0 1.3.6 1.3 1.3z"/>
+    <path id="appDevelopment_329_" class="app-development-6" d="M276.1 155.3c0 .7-.6 1.3-1.3 1.3-.7 0-1.3-.6-1.3-1.3 0-.7.6-1.3 1.3-1.3s1.3.6 1.3 1.3z"/>
+    <path id="appDevelopment_328_" class="app-development-36" d="M358.1 150.5h-2.8c1.2 0 2.2 1 2.2 2.2v74.9h2.8v-74.9c0-1.2-1-2.2-2.2-2.2z"/>
+    <path class="app-development-11" d="M270 169.4h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9.1h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9.1h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm0 9.1h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm78.3-54.3h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-23" d="M348.3 178.5h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-37" d="M348.3 187.5h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-23" d="M348.3 196.5h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-37" d="M348.3 205.6h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-23" d="M348.3 214.6h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-11" d="M348.3 223.7h-1.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h1.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm-48.5-54.3h-23.1c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h23.1c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-16" d="M305.5 169.4h4.7c1 0 1.8-.8 1.8-1.8s-.8-1.8-1.8-1.8h-4.7c-1 0-1.8.8-1.8 1.8s.8 1.8 1.8 1.8zm-18.3 9.1h-10.4c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h10.4c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-1 fill-primary" d="M296.5 178.5h31.2c1 0 1.8-.8 1.8-1.8s-.8-1.8-1.8-1.8h-31.2c-1 0-1.8.8-1.8 1.8s.8 1.8 1.8 1.8z"/>
+    <path class="app-development-11" d="M320.7 187.5h-43.9c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h43.9c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm9.7 9h-53.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h53.6c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-1 fill-primary" d="M320.7 205.6h-16.2c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h16.2c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-11" d="M297.9 205.6h-21.1c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h21.1c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm12.3 9h-33.4c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h33.4c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <path class="app-development-16" d="M316.2 214.6h10.7c1 0 1.8-.8 1.8-1.8s-.8-1.8-1.8-1.8h-10.7c-1 0-1.8.8-1.8 1.8s.8 1.8 1.8 1.8z"/>
+    <path class="app-development-11" d="M320.7 223.7h-43.9c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8h43.9c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8z"/>
+    <g id="appDevelopment_320_">
+        <path id="appDevelopment_327_" class="app-development-16" d="M291.1 215.3l-6.4-.5 5.1-5.9z"/>
+        <path id="appDevelopment_326_" class="app-development-16" d="M286 221.1l-6.4-.5 5.1-5.8z"/>
+        <path id="appDevelopment_325_" class="app-development-16" d="M298.5 226.9h-17.7l15.4-17.5z"/>
+        <path id="appDevelopment_324_" class="app-development-26" d="M298.5 226.9l-12.5-5.8 5.1-5.9z"/>
+        <path id="appDevelopment_323_" class="app-development-26" d="M279.6 220.6l1.2 6.3 5.1-5.8z"/>
+        <path id="appDevelopment_322_" class="app-development-26" d="M284.7 214.8l1.3 6.3 5.1-5.8z"/>
+        <path id="appDevelopment_321_" class="app-development-26" d="M289.8 208.9l1.3 6.3 5.1-5.8z"/>
+    </g>
+    <g id="appDevelopment_121_">
+        <g id="appDevelopment_307_">
+            <path id="appDevelopment_319_" class="app-development-37" d="M270.2 225.5c-3.7 3.1-9.2 2.6-12.2-1.1-3.1-3.7-2.6-9.2 1.1-12.2 3.7-3.1 9.2-2.6 12.2 1.1 3.1 3.7 2.6 9.2-1.1 12.2z"/>
+            <path class="app-development-6" d="M267 217.2l-2.8 5.9c0 .1-.1.1-.2.1h-.1c-.1 0-.2-.1-.2-.3l1-4.1-2.1.5h-.1c-.1 0-.1 0-.2-.1s-.1-.1-.1-.2l1-4.2c0-.1.1-.2.2-.2h1.7c.1 0 .2.1.2.2v.1l-.9 2.4 2-.5h.1c.1 0 .1 0 .2.1.3.1.3.2.3.3z"/>
+        </g>
+        <path id="appDevelopment_306_" class="app-development-38" d="M263.5 219.1c0-2.9-1.3-5.4-3.3-7.2-.4.2-.8.5-1.2.8-2 1.7-3 4-3.1 6.4.1 1.9.7 3.7 2 5.3.6.8 1.4 1.4 2.2 1.9 2.1-1.7 3.4-4.3 3.4-7.2z"/>
+        <g id="appDevelopment_150_">
+            <path id="appDevelopment_305_" class="app-development-1 fill-primary" d="M262 218c0 5.3-4.3 9.5-9.5 9.5-5.3 0-9.5-4.3-9.5-9.5 0-5.3 4.3-9.5 9.5-9.5s9.5 4.3 9.5 9.5z"/>
+            <path class="app-development-6" d="M255 221.3c0 .1 0 .2-.1.2 0 0-.5.2-1.1.2-1.6 0-3-1-3.4-2.5h-.5c-.1 0-.2-.1-.2-.2v-.6c0-.1.1-.2.2-.2h.3v-.6h-.4c-.1 0-.2-.1-.2-.2v-.6c0-.1.1-.2.2-.2h.5c.5-1.5 1.8-2.4 3.4-2.4.5 0 1 .1 1 .1s.1 0 .1.1v.1l-.2.8c0 .1-.1.1-.2.1 0 0-.4-.1-.7-.1-.9 0-1.6.5-2 1.3h2.5c.1 0 .1 0 .1.1v.1l-.1.6c0 .1-.1.1-.2.1h-2.6v.6h2.4c.1 0 .1 0 .1.1v.1l-.1.6c0 .1-.1.1-.2.1h-2c.3.8 1.1 1.3 2 1.3.5 0 .8-.1.8-.1h.1l.1.1.4 1z"/>
+        </g>
+        <path id="appDevelopment_149_" class="app-development-38" d="M248.8 210.3c-3.3 1.4-5.7 4.6-5.9 8.4.2 3.2 2.1 6 4.7 7.6 4-2.9 5.4-8.3 3.3-12.9-.5-1.2-1.2-2.2-2.1-3.1z"/>
+        <g id="appDevelopment_134_">
+            <circle id="appDevelopment_148_" class="app-development-16" cx="239.8" cy="217.1" r="10.5"/>
+            <path class="app-development-6" d="M245.9 213.2v6.9c0 .5-.4.9-.9.9h-9.1c-.5 0-.9-.4-.9-.9v-6.9c0-.5.4-.9.9-.9h9.1c.4 0 .9.4.9.9zm-10.3 0v1.3h9.5v-1.3c0-.1-.1-.2-.2-.2h-9.1c-.1 0-.2.1-.2.2zm9.5 7v-3.5h-9.5v3.5c0 .1.1.2.2.2h9.1c.1 0 .2-.1.2-.2zm-8.7-1.3h1.5v.7h-1.5v-.7zm2.2 0h2.2v.7h-2.2v-.7z"/>
+        </g>
+        <path id="appDevelopment_133_" class="app-development-38" d="M230.3 221.5c.7 1.5 1.7 2.7 2.8 3.6.6-.8 1.2-1.8 1.5-2.8 1.4-4.1.2-8.5-2.9-11.2-1.5 1.8-2.4 4.1-2.4 6.5.1 1.3.4 2.6 1 3.9z"/>
+        <g id="appDevelopment_122_">
+            <path id="appDevelopment_132_" class="app-development-3" d="M232.6 220.6c-1.9 5.4-7.9 8.3-13.3 6.4-5.4-1.9-8.3-7.9-6.4-13.3 1.9-5.4 7.8-8.3 13.3-6.4 5.5 2 8.3 7.9 6.4 13.3z"/>
+            <path class="app-development-6" d="M223.1 220.8v.9c0 .1-.1.2-.2.2h-.7c-.1 0-.2-.1-.2-.2v-.9c-1.2-.2-1.9-.9-2-1s-.1-.2 0-.2l.6-.7.1-.1h.1s.8.7 1.7.7c.5 0 1.1-.3 1.1-.9 0-.5-.6-.8-1.4-1.1-1-.4-2.2-.9-2.2-2.2 0-1 .8-1.8 1.9-2v-1c0-.1.1-.2.2-.2h.7c.1 0 .2.1.2.2v.9c1.1.1 1.7.7 1.7.7.1.1.1.1 0 .2l-.4.8-.1.1h-.1s-.7-.6-1.5-.6c-.7 0-1.1.3-1.1.8 0 .6.7.8 1.4 1.1 1 .4 2.1.8 2.1 2.1s-.8 2.2-1.9 2.4z"/>
+        </g>
+    </g>
+    <g id="appDevelopment_33_">
+        <g id="appDevelopment_117_">
+            <path id="appDevelopment_120_" class="app-development-1 fill-primary" d="M204.4 218.1c0 5.1-4.1 9.3-9.3 9.3-5.1 0-9.3-4.1-9.3-9.3s4.1-9.3 9.3-9.3c5.1 0 9.3 4.2 9.3 9.3z"/>
+            <g id="appDevelopment_118_">
+                <path id="appDevelopment_119_" class="app-development-6" d="M194.3 221l-3-3 1-1 2 1.9 3.6-3.7 1.1 1.1z"/>
+            </g>
+        </g>
+        <path id="appDevelopment_116_" class="app-development-38" d="M185.9 218.1c0 2.9 1.4 5.6 3.5 7.2 1-.8 1.9-1.9 2.5-3.1 1.9-4 .8-8.6-2.4-11.4-2.3 1.8-3.6 4.4-3.6 7.3z"/>
+        <g id="appDevelopment_107_">
+            <path id="appDevelopment_115_" class="app-development-16" d="M190.1 222.2c-2.3 4.7-7.9 6.7-12.6 4.4-4.7-2.3-6.7-7.9-4.4-12.6 2.3-4.7 7.9-6.7 12.6-4.4 4.7 2.3 6.7 7.9 4.4 12.6z"/>
+            <g id="appDevelopment_108_">
+                <path id="appDevelopment_110_" class="app-development-6" d="M181.1 216.9l1-2.1 1.7.8-1 2.1 2.1 1-.7 1.5-2.1-1-1 2.1-1.7-.8 1-2.1-2-1 .7-1.5 2 1z"/>
+            </g>
+        </g>
+        <path id="appDevelopment_105_" class="app-development-38" d="M176.9 209.9c-1.6.9-3 2.3-3.9 4.1-2.1 4.4-.5 9.7 3.6 12.2 2.8-1.7 4.7-4.7 4.7-8.2 0-3.4-1.8-6.4-4.4-8.1z"/>
+        <g id="appDevelopment_34_">
+            <circle id="appDevelopment_103_" class="app-development-29" cx="170.3" cy="217.9" r="9.6"/>
+            <path class="app-development-6" d="M173.8 218.1c.2.3.3.7.3 1.2-.1.6-.3 1.1-.8 1.3-.4.2-1 .4-1.7.4v1.2h-.9V221h-.7v1.2h-.9V221h-1.7l.2-1h.7c.1 0 .2-.1.2-.3v-3.8c0-.2-.1-.3-.3-.3h-.8v-.9h1.7v-1.4h.9v1.4h.7v-1.3h.9v1.4c.6.1 1 .2 1.4.4s.6.6.6 1c.1.7-.2 1.1-.7 1.4.3 0 .7.2.9.5zm-3.8-.8h.1c.5 0 .9 0 1.1-.1.5-.1.7-.4.7-.7 0-.4-.2-.6-.7-.8-.3-.1-.6-.1-1.1-.1h-.2l.1 1.7zm.2 2.7c.6 0 1 0 1.3-.1.5-.1.8-.4.8-.8s-.3-.7-.8-.8c-.3-.1-.7-.1-1.3-.1h-.2v1.8h.2z"/>
+        </g>
+    </g>
+    <g id="appDevelopment_29_">
+        <path id="appDevelopment_30_" class="app-development-16" d="M146.8 219.2h2.3c.5 0 .9-.4.9-.9v-3c0-.5-.4-.9-.9-.9h-1.8c-.3 0-.6-.2-.7-.5-.1-.2-.1-.3-.2-.5-.1-.3-.1-.6.1-.8l1.3-1.3c.3-.3.3-.9 0-1.2l-2.1-2.1c-.3-.3-.9-.3-1.2 0l-1.3 1.3c-.2.2-.5.3-.8.1-.2-.1-.4-.2-.6-.2-.3-.1-.4-.4-.4-.7v-1.8c0-.5-.4-.9-.9-.9h-3c-.5 0-.9.4-.9.9v1.8c0 .3-.2.6-.5.7-.2.1-.4.1-.5.2-.3.1-.6.1-.8-.1l-1.3-1.3c-.3-.3-.9-.3-1.2 0l-2.1 2.1c-.3.3-.3.9 0 1.2l1.3 1.3c.2.2.3.5.2.8-.1.2-.2.4-.2.6-.1.3-.4.4-.7.4H129c-.5 0-.9.4-.8.9v3c0 .5.4.9.9.8h1.8c.3 0 .6.2.7.5.1.2.1.3.2.5.1.3.1.6-.1.8l-1.3 1.3c-.3.3-.3.9 0 1.2l2.1 2.1c.3.3.9.3 1.2 0l1.3-1.3c.2-.2.5-.3.8-.1.2.1.4.2.6.2.3.1.4.4.4.7v1.8c0 .5.4.9.9.8h3c.5 0 .9-.4.8-.9v-1.8c0-.3.2-.6.5-.7.2-.1.3-.1.5-.2.3-.1.6-.1.8.1l1.3 1.3c.3.3.9.3 1.2 0l2.1-2.1c.3-.3.3-.9 0-1.2l-1.3-1.3c-.2-.2-.3-.5-.1-.8.1-.2.3-.8.3-.8zm-11.8-3.1c.5-2.6 3.2-4.1 5.6-3.2 1.9.7 3 2.7 2.6 4.7-.5 2.6-3.2 4.1-5.6 3.2-1.8-.7-2.9-2.7-2.6-4.7z"/>
+    </g>
+    <g id="appDevelopment_857_">
+        <g id="appDevelopment_868_">
+            <path id="appDevelopment_901_" d="M60.4 227.2H35.5c-1.2 0-2.2-1-2.2-2.2v-20.6h27.1c.4 0 .8.3.8.8v21.3c-.1.3-.4.7-.8.7z" fill="#fdfdfe"/>
+            <path id="appDevelopment_900_" class="app-development-40" d="M36.2 223.3c-1 0-3 .2-3 2.3v-22.4c0-1.3 1-2.3 2.3-2.3h.7v22.4z"/>
+        </g>
+        <path id="appDevelopment_834_" class="app-development-1 fill-primary" d="M52.3 217.8h1.5c.3 0 .5-.2.5-.5v-1.9c0-.3-.2-.5-.5-.5h-1.2c-.2 0-.4-.1-.4-.3 0-.1-.1-.2-.1-.3-.1-.2-.1-.4.1-.5l.8-.8c.2-.2.2-.6 0-.8l-1.3-1.3c-.2-.2-.6-.2-.8 0l-.8.8c-.1.1-.3.2-.5.1-.1-.1-.2-.1-.4-.1-.2-.1-.3-.2-.3-.4v-1.2c0-.3-.2-.5-.5-.5h-1.9c-.3 0-.5.2-.5.5v1.2c0 .2-.1.4-.3.4-.1 0-.2.1-.3.1-.2.1-.4.1-.5-.1l-.9-.9c-.2-.2-.6-.2-.8 0l-1.3 1.3c-.2.2-.2.6 0 .8l.8.8c.1.1.2.3.1.5-.1.1-.1.2-.1.4-.1.2-.2.3-.4.3h-1.2c-.3 0-.5.2-.5.5v1.9c0 .3.2.5.5.5h1.2c.2 0 .4.1.4.3 0 .1.1.2.1.3.1.2.1.4-.1.5l-.8.8c-.2.2-.2.6 0 .8l1.3 1.3c.2.2.6.2.8 0l.8-.8c.1-.1.3-.2.5-.1.1.1.2.1.4.1.2.1.3.2.3.4v1.2c0 .3.2.5.5.5h1.9c.3 0 .5-.2.5-.5v-1.2c0-.2.1-.4.3-.4.1 0 .2-.1.3-.1.2-.1.4-.1.5.1l.8.8c.2.2.6.2.8 0l1.3-1.3c.2-.2.2-.6 0-.8l-.8-.8c-.1-.1-.2-.3-.1-.5.2-.2.3-.6.3-.6zm-7.5-2c.3-1.7 2-2.6 3.6-2 1.2.5 1.9 1.7 1.7 3-.3 1.7-2 2.6-3.6 2-1.2-.4-1.9-1.7-1.7-3z"/>
+        <path id="appDevelopment_858_" class="app-development-24" d="M61.1 226.6v-21.7c0-.3-.3-.6-.6-.6h-1.8v22.2c0 .3.3.6.6.6h1.2c.4.1.6-.2.6-.5z"/>
+        <g id="appDevelopment_838_">
+            <path id="appDevelopment_856_" class="app-development-16" d="M59.5 202.5H62v21.6h-2.5z"/>
+            <path id="appDevelopment_855_" class="app-development-40" d="M62 224h-2.5v2.3c0 .5.4.8.8.8h.9c.5 0 .8-.4.8-.8V224z"/>
+            <path id="appDevelopment_852_" fill="#fde1a7" d="M59.5 202.5h1.3v21.6h-1.3z"/>
+            <path id="appDevelopment_851_" class="app-development-27" d="M60.6 199.5l-1.2 2.9H62l-1.2-2.9c0-.1-.1-.1-.2 0z"/>
+            <path id="appDevelopment_850_" class="app-development-25" d="M60.7 199.4l-.3.8h.7l-.4-.8c0-.1 0-.1 0 0z"/>
+            <path id="appDevelopment_854_" class="app-development-25" d="M59.5 223.4H62v.6h-2.5z"/>
+        </g>
+    </g>
+    <path class="app-development-42" d="M360.3 217.1l-.7.3-.4-.8 1.1-.3v-1.9l-9.4-22.7-1.3-14.2s1.3-1.7 2.3-4.6c.6-1.8.4-4.3.2-5.9h.6v-2.4h-.3c1.2-2.3 3.8-8.9 5.9-14.5h-16.9l-.7.7v-.7H309v9c0 1.2.9 2.1 2.1 2.1h8.8c-.3.1-.6.3-.8.5l5.3.6h2.7l2.3-1.1h8.8c-.5 1.5-1 2.7-1.3 3.4h-1v2.4h.4l-1 5.1-.1.6-5.8 18.9-1.9 26.5h1.4v1.1h-1.3l-2.1 2.4H321c-2.7 0-5.3 1.5-6.5 4h-.7v1.5h19.5v-1.5h-.7v-6.4h-1v-1.1h1.5l4.4-28.1v-.1l2.6-3.9 3.6 10.3 11.8 21.2.9-.3.6 1.1-.8.4-1 3-5.1.1c-2.5 1-3.1 1.1-3.4 3.6h-.4v1.5h10.6l3.4-1.4v-8.4z"/>
+    <g id="appDevelopment_49_">
+        <g id="appDevelopment_64_">
+            <path id="appDevelopment_67_" class="app-development-16" d="M339 142.1l-22.7 11.3c-.4.2-.8 0-1-.3l-6.9-13.9c-.2-.4 0-.8.3-1l22.7-11.3c.4-.2.8 0 1 .3l6.9 13.9c.2.4 0 .8-.3 1z"/>
+            <path id="appDevelopment_66_" class="app-development-26" d="M339.3 141.5l-15.5-2.6c-.4-.1-.8.1-.9.5l-7.2 13.9c.3.1.6.2.8 0l22.3-11.1c.3-.1.4-.4.5-.7z"/>
+            <path id="appDevelopment_65_" class="app-development-26" d="M308.4 138.7l15.5 2.6c.4.1.8-.1.9-.5l7.2-13.9c-.3-.1-.6-.2-.8 0L308.9 138c-.3.2-.5.5-.5.7z"/>
+        </g>
+        <path id="appDevelopment_58_" class="app-development-38" d="M313.1 136c2.4 2.7 6.4 3.5 9.8 1.9 3.4-1.7 5.1-5.4 4.4-8.9l-14.2 7z"/>
+        <g id="appDevelopment_52_">
+            <path id="appDevelopment_57_" class="app-development-1 fill-primary" d="M326.3 126c2 4.1.4 9.1-3.7 11.1s-9.1.4-11.1-3.7c-2-4.1-.4-9.1 3.7-11.1s9.1-.4 11.1 3.7z"/>
+            <path id="appDevelopment_56_" class="fill-primary-lighter" d="M323.4 127.5c1.2 2.5.2 5.5-2.3 6.8-2.5 1.2-5.5.2-6.8-2.3-1.2-2.5-.2-5.5 2.3-6.8 2.5-1.2 5.6-.2 6.8 2.3z" fill="#19a0ff"/>
+            <g id="appDevelopment_53_">
+                <path id="appDevelopment_55_" class="app-development-6" d="M321.4 131.9l-1.2.6-2.4-4.8-1.1.6-.6-1.2 2.3-1.2z"/>
+            </g>
+        </g>
+    </g>
+    <g id="appDevelopment_43_">
+        <path id="appDevelopment_48_" class="app-development-6" d="M338.5 150.7l-17.9-10.8c-.3-.2-.4-.6-.2-1l7.3-12.1c.2-.3.6-.4 1-.2l17.9 10.8c.3.2.4.6.2 1l-7.3 12.1c-.2.3-.7.4-1 .2z"/>
+        <path id="appDevelopment_47_" class="app-development-16" d="M336.4 143.2l-10.2-6.1c1.7-2.8 5.3-3.7 8.1-2 2.9 1.7 3.8 5.3 2.1 8.1z"/>
+        <path id="appDevelopment_46_" class="app-development-40" d="M326.4 140.8l8.9-2.1 1.9 8.7z"/>
+        <path id="appDevelopment_45_" class="app-development-44" d="M321.8 138.1l9-2.2 1.9 8.7z"/>
+        <path id="appDevelopment_44_" class="app-development-44" d="M338.9 137.4l2 1.2c.2.1.3.4.1.6-.1.2-.4.3-.6.1l-.1-.1c-.2-.1-.4-.1-.5.1-.1.2-.1.4.1.5l2.1 1.3c.2.1.2.3.1.5s-.3.2-.5.1l-6.6-4c-.2-.1-.2-.3-.1-.5s.3-.2.5-.1l.4.3c.2.1.4.1.5-.1.1-.2.1-.4-.1-.5l-1.9-1.1c-.2-.1-.3-.4-.1-.6.1-.2.4-.3.6-.1l4.1 2.4z"/>
+    </g>
+    <g id="appDevelopment_35_">
+        <g id="appDevelopment_36_">
+            <path id="appDevelopment_42_" class="app-development-37" d="M340.5 161.2H314v-16.9h28.7v14.8c0 1.2-1 2.1-2.2 2.1z"/>
+            <path id="appDevelopment_41_" d="M313.2 161.2h.8v-16.9h-3v14.8c0 1.2 1 2.1 2.2 2.1z" fill="#bda36d"/>
+            <path id="appDevelopment_40_" class="app-development-36" d="M311 147.9h1.9l1.1-3.6-3 .7z"/>
+            <path id="appDevelopment_39_" class="app-development-37" d="M310.6 146.5h2.1c.1 0 .3-.1.4-.2l.9-1.9h-3l-.8 1.6c-.1.2.1.5.4.5z"/>
+            <path id="appDevelopment_38_" class="app-development-36" d="M342.7 147.9V145l-28.7-.7 1.5 3.6z"/>
+            <path id="appDevelopment_37_" class="app-development-37" d="M343.5 146.5h-27.7c-.1 0-.2-.1-.3-.2l-1.5-2h28.7l1.1 1.5c.2.3 0 .7-.3.7z"/>
+        </g>
+    </g>
+    <path class="app-development-46" d="M330.8 217.3h2.8v3.1h-2.8zm27.254-.836l2.513-1.236 1.368 2.782-2.513 1.236z"/>
+    <path class="app-development-14" d="M353.8 165.5l-4.6 10-9.7 14.6-4.4 28.1h-5.7l1.9-26.5 5.8-18.9 1.5-7.3z"/>
+    <g class="app-development-32">
+        <path class="app-development-29" d="M351 171.6l-13.2-2-.6 3.1-.7 2.2c1.5 3.8 3 9.2 3.1 15.1l9.6-14.5 1.8-3.9z"/>
+    </g>
+    <path class="app-development-46" d="M353.6 128h5.8v6.8h-5.8z"/>
+    <path class="app-development-42" d="M359.4 131.7l-5.8-2.1V128h5.8z"/>
+    <path class="app-development-47" d="M352.5 131.4l7.8 2v1.5s3.1 4.1 2.9 6.2-8.2 23.6-9.4 24.4h-15.3s6.1-16 6.5-17.8c0 0 1.9-8.6 5.2-11.3 0 0 1-1.7 2-2.2 0 .1.9-1 .3-2.8z"/>
+    <path class="app-development-48" d="M353.4 149.9l-4.6-5.9 4.2-3.6c1.4-1.5 3.8-1.5 5.3-.1s1.5 3.8.1 5.3l-5 4.3z"/>
+    <path class="app-development-47" d="M352.7 149.2l-4.5-5.9 4.9-3.8c1.5-1.2 3.7-.9 4.9.7l.3.3c1.2 1.5.9 3.7-.7 4.9l-4.9 3.8z"/>
+    <path class="app-development-29" d="M343.3 152.9c-.7 1.8-1.4 3.8-2.1 5.7l3.4-1.6 8.8-7.1-3.4-4.5-6.7 7.5z"/>
+    <path class="app-development-46" d="M329.1 162.3l14.4-6.8 8.8-7.1-3.4-4.5-7.2 8-13 8.1.5.6-2.6.1c-1.1 0-4.1-.4-5.3.9l5.3.6 2.5.1z"/>
+    <path class="app-development-14" d="M353.8 165.5s.9 4.5 0 7.4-2.3 4.6-2.3 4.6l1.3 14.2 10.1 24.3-5.4 1.6-11.8-21.2-8.5-24.3 1.3-6.6h15.3z"/>
+    <path class="app-development-49" d="M361.7 129.5h-8.4c-1.3 0-2.4-1.1-2.4-2.4v-2.7h-2.1c-.9-7.1 2.1-9.2 2.1-9.2h10.8v14.3z"/>
+    <path d="M364.9 116.4c-.2-1.2-1-3.2-2.1-3.8-.6-.3-1.3-.3-1.9 0 0-.8-.5-1.8-1.3-1.8-.5 0-1.1.2-1.6.3-1.8.6-3.6 1.2-5.5 1.1-2 0-3.7-.8-5-2.2 0 1.1.2 2.2.5 3.3.1.4.3.8.5 1.1.3.5.8.8 1.4 1.2 1.5 1 2.6.4 4.2.5.7 0 1.3.2 2 .2.6 0 1.4-.2 2 .1 1.9 1-2.5 3.6-2.5 4.5 1-.5 2-1.1 2.9-1.6-1 1.2-2.1 2.5-2.1 4.1.7-.7 1.6-1.2 2.6-1.4-.3.7-.6 1.3-1 2-.1.2-.2.5 0 .6.3.2.7-.4 1-.2-.4.9-.8 1.8-1.2 2.8.4-.2.8-.4 1-.7-.3 1-.2 2.1.2 3 .7-.1 1.3.5 2.1.6.7.1 1.1-.4 1.6-.6.7-.3 1.7-.3 2.4-.1-.3-.5-.6-1-.7-1.6-.4-1.5.4-2.6.6-4 .2-1.7.2-3.4.2-5.1-.1-.8-.1-1.6-.3-2.3z" fill="#2e5f7a"/>
+    <path class="app-development-48" d="M337.9 164.7h16.8v2.4h-16.8z"/>
+    <path class="app-development-46" d="M328.3 161.5l-1.7-1.7c-.3-.2-.4-.5-.3-.8.2-.3.5-.4.8-.3l2.3 1.2c.3.2.4.5.3.8-.2.3-1.1.9-1.4.8z"/>
+    <path class="app-development-19" d="M334.6 219.3h-5.1l-2.1 2.4H323c-2.7 0-5.3 1.5-6.5 4h18v-6.4h.1z"/>
+    <path class="app-development-6" d="M333.6 222.5c0 .9-.7 1.6-1.6 1.6s-1.6-.7-1.6-1.6c0-.9.7-1.6 1.6-1.6s1.6.7 1.6 1.6z"/>
+    <path class="app-development-16" d="M315.8 225.7h19.5v1.5h-19.5z"/>
+    <path class="app-development-19" d="M362.9 216.9l-4.7 2-1 3-5.1.1c-2.5 1.1-3.2 1.1-3.4 3.8h9.4l7.2-3-2.4-5.9z"/>
+    <path class="app-development-6" d="M363.2 220.2c.3.8 0 1.7-.9 2.1-.8.3-1.7 0-2.1-.9-.3-.8 0-1.7.9-2.1.8-.3 1.7.1 2.1.9z"/>
+    <path class="app-development-16" d="M348.3 225.6h10.6v1.5h-10.6z"/>
+    <path class="app-development-16" d="M358.31 225.7l7.261-3.11.59 1.378-7.261 3.11z"/>
+    <path class="app-development-42" d="M175.3 101.1c0-.1-.1-.2-.2-.3-.1-.1-.2-.1-.4-.1h-.3c0-.5 0-1-.1-1.5h-.1v-.4c-5.5 0-10.9-.1-16.4-.1v.3h-.1c-.1 1.3-.2 2.5 0 3.8h.1v.3c5.5 0 10.9.1 16.4.1v-.3h.2c.1-.6.1-1.1.1-1.7h.3v5.4c0 .1-.1.1-.1.2l-.2.1-.4.2-.8.4-3 1.4-3 1.4-.4.2c-.1.1-.2.1-.3.2s-.1.2-.2.3c0 .1-.1.2-.1.3v1.9h-.8v.3c0 .1 0 .1.1.1h.7-.7c-.2 0-.3.1-.3.3l-.1 1.2c-.5.2-1.1.4-1.6.6s-1 .4-1.3.9c-.2.3-.3.6-.3 1-.1.7-.1 1.4 0 2.2v.6l-.3-.1-12.6 8.7s-7.3-3.8-10.9-5.3c-2.4-1-3.9-.6-4.6-.3l-.6-3.2c.8.1 1.7-.1 2.6-.1.7 0 1.4 0 1.9-.4.7-.5 1-1.3 1.2-2.1.2-.5.3-1.1.5-1.6s.3-1 .3-1.6c0-.5-.2-1-.6-1.3h.7c.2 0 .4-.2.3-.4-.2-1-.5-2-.7-3-.2-1.1 0-2.2-.7-3.2.2-.2.3-.4.5-.6.2-.4.4-.8.3-1.2-.1-.5-.5-1-.9-1.2-1.2-.6-2.1-.4-3.3 0-.5.2-1.2.2-1.6-.2-.2-.1-.3-.3-.4-.5-.7-.9-2.2-1-3-.2s-1.1 1.4-2.2 1.8c-.7.2-1.5.5-2 1.1v2.1c.1.2.2.4.2.7.1.3-.1.6-.2.8v4.5c.6.6.5 1.4.5 2.3 0 .5-.3.8-.5 1.2v1.5c.4.5 1.2.5 1.8.2v.3c0 .2.2.4.4.4h.4l-.6 4.3h-.9l-1.2.4v87h2.2v-1.4h-.6v-.4l-.6-2.2h-.4v-.3h.8l1.5-26.3 6.3-17.2 9.4 10.7-7.3 22.3.9.1-.3.6h-.5l-1.3 1.6v1.3h-.5v1h14.9v-1h-.3v-.1c0-.9-.6-1.7-1.5-1.8l-4.7-1h-3.3l.2-.4.9.1 11.8-24.6-11.6-20-.6-1 1.4-17.5 9.7 1.3c.5.1 1-.1 1.4-.5.1-.1.2-.3.3-.4l10.7-11.9v.3c0 .2.1.3.3.3h2.6c.2 0 .3-.1.3-.3l-.1-1.7c.4-.2.7-.5.9-1 .2-.6 0-.7-.1-1.2-.1-.4.1-.7-.3-.9 0 0-.1 0-.1-.1s0-.2.1-.2c.3-.3.2-.9-.1-1.1-.1-.1-.3-.2-.5-.3l-.1-2c0-.2-.2-.3-.3-.3h-.5.6c.1 0 .1 0 .1-.1v-.3h-.7v-2c0-.1.1-.1.1-.2l.4-.2 3-1.4 3-1.4.8-.4.4-.2.2-.1c.1 0 .1-.1.1-.1.2-.1.3-.3.3-.5v-5.7c.2.1.2 0 .2 0zm-10.6 20.7l-.2-.1c.1 0 .1 0 .2-.1v.2z"/>
+    <path class="app-development-6" d="M173.3 101.3v-.2c0-.1-.1-.2-.2-.3-.1-.1-.2-.1-.4-.1h-1.9v.5h1.9v5.4c0 .1-.1.1-.1.2l-.2.1-.4.2-.8.4-3 1.4-3 1.4-.4.2c-.1.1-.2.1-.3.2s-.1.2-.2.3c0 .1-.1.2-.1.3v2.3h.5v-2.4c0-.1.1-.1.1-.2l.4-.2 3-1.4 3-1.4.8-.4.4-.2.2-.1c.1 0 .1-.1.1-.1.2-.1.3-.3.3-.5v-5.6c.3.3.3.2.3.2z"/>
+    <path class="app-development-16" d="M172.2 103h-.3v-3.8h.3c.2 1.2.2 2.5 0 3.8zm-16.7-.2h.3V99h-.3c-.1 1.2-.1 2.5 0 3.8z"/>
+    <path class="fill-primary-lighter" d="M172.1 98.8c.1 1.5.1 3 0 4.5-5.5 0-10.9-.1-16.4-.1-.1-1.5-.1-3 0-4.5 5.4 0 10.9 0 16.4.1z" fill="#19a0ff"/>
+    <path class="app-development-1 fill-primary" d="M155.6 100.9c0 .7 0 1.5.1 2.2 5.5 0 10.9.1 16.4.1.1-.7.1-1.5.1-2.2-5.6 0-11.1-.1-16.6-.1z"/>
+    <path class="app-development-16" d="M162.6 122.5c0 .2.1.3.3.3h2.6c.2 0 .3-.1.3-.3l-.3-8.5c0-.2-.2-.3-.3-.3h-1.9c-.2 0-.3.1-.3.3l-.4 8.5z"/>
+    <path d="M165.4 113.3v.3c0 .1 0 .1-.1.1h-2c-.1 0-.1 0-.1-.1v-.3h2.2z" fill="#bf9855"/>
+    <path d="M164.4 113.7h-1c-.2 0-.3.1-.3.3l-.4 8.5c0 .2.1.3.3.3h1.3l.1-9.1z" fill="#feca71"/>
+    <path d="M166.1 116.3c-.8-.8-2.2.2-3 .5.5-.2.7-1.1.3-1.5-.1-.1-.1-.1-.2-.1h-.3c-.5.2-1.1.4-1.6.6s-1 .4-1.3.9c-.2.3-.3.6-.3 1-.1.7-.1 1.4 0 2.2v.8c.5.6 1.3.6 2 1 .2.1.4.2.6.1.2 0 .4-.1.6-.2.7-.3 1.5-.6 2.3-.6.7 0 1.3-.4 1.5-1.1.2-.6 0-.7-.1-1.2-.1-.4.1-.7-.3-.9 0 0-.1 0-.1-.1s0-.2.1-.2c.2-.4.1-.9-.2-1.2zM121.9 205h2.5v3.6h-2.5zm13.345-7.247l1.563-3.243 2.252 1.085-1.562 3.243zM121.4 103.1c0-.2 0-.4-.1-.6-.2-.3-.5-.4-.8-.4s-.6 0-.9-.1-.5-.3-.8-.3c-.7-.1-1.3.9-2 .7-.2 0-.3-.1-.5-.2-.6-.2-1.2.3-1.3.9-.2.6 0 1.2.1 1.8.2.8.9 2.2 1.4 2.9 1.3 0 1.6.4 2.9.5 0 0 .6-1 .5-1h.1c.1-.3.5-.6.7-.9.3-.3.6-.7.8-1.1.1-.3.1-.7.1-1.1-.2-.3-.2-.7-.2-1.1zm10.1 21.3h-5.8l1-7.6h3.3z" fill="#e2c076"/>
+    <path class="app-development-47" d="M123.7 149.3l-4.8 30.1 2.4 27.6h3.9l1.6-26.3 6.3-17.2 9.4 10.7-7.4 22.3 4.5.2 11.8-24.6-13.3-22.8z"/>
+    <path fill="#113651" d="M125.7 149.3h-2l-4.8 30.1 2.4 27.6h.5l-.9-27.6z"/>
+    <path class="app-development-48" d="M142.9 173.8l-8.3-11.8-1.5 1.5 9.4 10.7z"/>
+    <path class="app-development-42" d="M130 116.8h-3.3l-.6 4.6 4.5-1.5z"/>
+    <path class="app-development-49" d="M132.9 119.6H126c-.2 0-.4-.2-.4-.4v-14.4h6.9c.9 0 1.7.2 2.5.6 2.3 1.2 1.8 2.8 2 4.3.2 1 .5 2 .7 3 0 .2-.1.4-.3.4-.6 0-1.6.1-1.6.1l.4 2.5c.3 2-1.3 3.9-3.3 3.9z"/>
+    <path d="M136.6 113.1c-1.7-1-2.7 1.1-3.9 1.7-.6.2-1.4.2-1.7-.4-.5-.7-.9-2.1-.8-2.9.1-.8.2-1.6.5-2.3.4-.7 1-1.5 1.8-1.9.4-.2.8-.3 1.2-.2.6.1.9.3 1.5.1.6-.2 1.2-.8 1.6-1.4.2-.4.4-.8.3-1.2-.1-.5-.5-1-.9-1.2-1.2-.6-2.1-.4-3.3 0-.5.2-1.2.2-1.6-.2-.2-.1-.3-.3-.4-.5-.7-.9-2.2-1-3-.2s-1.1 1.4-2.2 1.8c-.7.2-1.6.6-2.1 1.2-.7 1.1.2 1.7.3 2.7.1.5-.3.9-.5 1.3-.5.8-.7 1.8-.5 2.7.1.4.3.9.6 1.1.8.6.7 1.5.7 2.5 0 .8-.7 1.2-.7 1.9-.1 1.5 2.2 1.5 2.7.3.6-1.6.1-3.4.1-5 0-.9 1-2.1 2-1.4.6.4.5 1 .5 1.6 0 .9-.1 1.8-.1 2.7-.1 1.3-.6 3.1.8 4 1.3.7 2.4.3 3.8.3.7 0 1.4 0 1.9-.4.7-.5 1-1.3 1.2-2.1.2-.5.3-1.1.5-1.6s.3-1 .3-1.6c0-.6-.2-1.1-.6-1.4z" fill="#1e2022"/>
+    <path class="app-development-42" d="M123.7 149.3l-.8 4.9c1.4 0 3.3.3 4.6-.2 1.5-.6 2.8-1.9 4.5-1.8.8.1 1.5.4 2.2.6 1 .3 2.1.3 3.1.1.9-.2 1.6-.7 2.5-.9l-1.6-2.7h-14.5z"/>
+    <path class="app-development-14" d="M130.8 123.8s1.5-1.5 5.1 0c3.5 1.5 10.9 5.3 10.9 5.3l12.6-8.7 3.6 1.6-11 12.1c-.3.6-1 1-1.7.9l-9.7-1.3-1.4 17.5c-.9.1-1.6.7-2.5.9-1 .2-2 .2-3-.1-.7-.2-1.4-.6-2.1-.6-1.6-.1-2.8 1.1-4.3 1.7-1.4.6-3.8.1-5.2.3-.4-1.8 1.2-4 1-5.9-.3-2.9-.9-6-2.6-8.4l-8.9-17.2 4.3-13.9h4.1l-2.3 11.6 3.3 5.8 4.1-1.5 5.7-.1z"/>
+    <path d="M148.2 129.1l11.6-8.5-.5-.3-12.5 8.8zm-24.3 24.1c.7 0 1.4.1 2 0h-2zm.6-5.8c-.3-2.9-.9-6-2.6-8.4l-8.9-17.2 3.3-13.9h-.5l-4.3 13.9 8.9 17.2c1.7 2.4 2.3 5.5 2.6 8.4.2 1.9-1.4 4.1-1 5.9.4-.1.9-.1 1.5 0-.3-1.9 1.2-4.1 1-5.9z" fill="#db6767"/>
+    <path d="M148.7 133.5l-9.7-1.3s-.8 19.1.1 18.9l1.4-17.5 9.7 1.3c.7.1 1.4-.3 1.7-.9 0 .1-2.5-.4-3.2-.5z" fill="#d15a5a"/>
+    <path class="app-development-14" d="M125.4 211.3h-4.5v-2l.6-2h3.3l.6 2.2z"/>
+    <path class="app-development-19" d="M120.3 209.9h5.7v1.4h-5.7z"/>
+    <path class="app-development-14" d="M148 201h-14v-2.3l1.3-1.6h6.5l4.7 1c.9.2 1.5 1 1.5 1.8v1.1z"/>
+    <path class="app-development-19" d="M133.5 200h14.9v1h-14.9z"/>
+</svg>
