@@ -8,3 +8,6 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+include:
+  - .htaccess
+  - _pages
