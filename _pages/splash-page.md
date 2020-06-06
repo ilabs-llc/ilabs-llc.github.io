@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "iLabs LLC"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/appdev.svg
 
-excerpt: "iLabs LLC."
+excerpt: "All about ideas, incubation, innovation and value delivery"
 intro: 
-  - excerpt: 'Welcome to iLabs LLC `type="center"`'
+  - excerpt: 'Welcome to iLabs LLC'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
