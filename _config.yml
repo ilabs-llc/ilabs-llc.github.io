@@ -1,5 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
+title: "iLabs LLC"
+subtitle: "ideation, incubation, innovation, value delivery"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
