@@ -12,26 +12,26 @@ excerpt: "All about ideas, incubation, innovation and value delivery"
 intro: 
   - excerpt: 'Welcome to iLabs LLC'
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/ideate.png
     alt: "Ideation"
     title: "Ideation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
   - image_path: /assets/images/incubate.png
-    image_caption: "Incubation)"
+    image_caption: "Incubation"
     alt: "Incubation"
     title: "Incubation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
   
   - image_path: /assets/images/innovate.png
-    title: "Placeholder 3"
+    title: "Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/ideate.png
     alt: "Ideation"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
