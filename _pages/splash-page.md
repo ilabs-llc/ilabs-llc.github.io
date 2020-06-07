@@ -34,25 +34,25 @@ feature_row:
 
 feature_row2:
   - image_path: /assets/images/ideate.png
-    alt: "Ideation"
-    title: "Azure cloud solutions"
+    alt: "Cloud"
+    title: "Cloud Solution Labs"
     excerpt: 'We have excellent expertise in Azure to deliver overall solution architecture to solve business problems cost effectively using the right technology to use'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/incubate.png
-    alt: "Incubation"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    alt: "Mobile Solution Labs"
+    title: "Help you define a mobile first strategy"
+    excerpt: 'Mobile solutions'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/innovate.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    alt: "AI Labs"
+    title: "AI Labs"
+    excerpt: 'Cutting edge AI solutions'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
