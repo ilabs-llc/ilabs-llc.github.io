@@ -49,7 +49,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/innovate.png
+  - image_path: /assets/images/ai.svg
     alt: "AI Labs"
     title: "AI Labs"
     excerpt: 'Cutting edge AI solutions'
