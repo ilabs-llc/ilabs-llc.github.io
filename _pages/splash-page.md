@@ -43,8 +43,8 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/incubate.png
     alt: "Mobile Solution Labs"
-    title: "Help you define a mobile first strategy"
-    excerpt: 'Mobile solutions'
+    title: "Mobile Solution Labs"
+    excerpt: 'Help you define a mobile first strategy'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
