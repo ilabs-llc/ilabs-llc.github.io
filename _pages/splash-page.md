@@ -13,6 +13,7 @@ intro:
   - excerpt: 'Welcome to iLabs LLC'
 feature_row:
   - image_path: /assets/images/ideate.png
+    image_caption: "Ideation"
     alt: "Ideation"
     title: "Ideation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -27,14 +28,15 @@ feature_row:
     # btn_class: "btn--primary"
   
   - image_path: /assets/images/innovate.png
+    image_caption: "Innovation"
     title: "Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 feature_row2:
   - image_path: /assets/images/ideate.png
     alt: "Ideation"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    title: "Azure cloud solutions"
+    excerpt: 'We have excellent expertise in Azure to deliver overall solution architecture to solve business problems cost effectively using the right technology to use'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
