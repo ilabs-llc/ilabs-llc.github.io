@@ -41,7 +41,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/incubate.png
+  - image_path: /assets/images/mobile.png
     alt: "Mobile Solution Labs"
     title: "Mobile Solution Labs"
     excerpt: 'Help you define a mobile first strategy'
