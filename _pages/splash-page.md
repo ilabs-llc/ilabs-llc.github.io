@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/appdev.svg
 
 excerpt: "All about ideas, incubation, innovation and value delivery"
-# intro: 
-#   - excerpt: 'Welcome to iLabs LLC'
+ intro: 
+   - excerpt: 'Our philosophy'
 feature_row:
   - image_path: /assets/images/ideate.png
     image_caption: "Ideation"
