@@ -13,23 +13,23 @@ intro:
   - excerpt: "**Our philosophy**"
 feature_row:
   - image_path: /assets/images/ideate.png
-    image_caption: "Ideation"
-    alt: "Ideation"
-    title: "Ideation"
+    image_caption: "Ideate"
+    alt: "Ideate"
+    title: "Ideate"
     excerpt: "Everything begins with an idea. No idea is too small."
 
   - image_path: /assets/images/incubate.png
-    image_caption: "Incubation"
-    alt: "Incubation"
-    title: "Incubation"
+    image_caption: "Incubate"
+    alt: "Incubate"
+    title: "Incubate"
     excerpt: "The ideas should have the potential to change the world for better."
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
   
   - image_path: /assets/images/innovate.png
-    image_caption: "Innovation"
-    title: "Innovation"
+    image_caption: "Innovate"
+    title: "Innovate"
     excerpt: "Changes call for innovation and innovation leads to progress"
 
 feature_row2:
