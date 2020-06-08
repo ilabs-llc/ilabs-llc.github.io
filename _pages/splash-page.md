@@ -16,13 +16,13 @@ feature_row:
     image_caption: "Ideation"
     alt: "Ideation"
     title: "Ideation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Everything begins with an idea. No idea is too small."
 
   - image_path: /assets/images/incubate.png
     image_caption: "Incubation"
     alt: "Incubation"
     title: "Incubation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "The ideas should have the potential to change the world for better."
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
@@ -30,7 +30,7 @@ feature_row:
   - image_path: /assets/images/innovate.png
     image_caption: "Innovation"
     title: "Innovation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Changes call for innovation and innovation leads to progress"
 
 feature_row2:
   - image_path: /assets/images/ideate.png
